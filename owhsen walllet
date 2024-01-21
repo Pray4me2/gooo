@@ -1,0 +1,2 @@
+sudo apt install fuse libfuse2 nodejs -y
+sudo npm install -g snarkjs
